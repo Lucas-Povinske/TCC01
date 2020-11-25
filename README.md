@@ -14,9 +14,13 @@ Neste âmbito de análise de uso de tecnologias inovadoras de realidade aumentad
 Portanto, o objetivo é desenvolver e implantar uma simulação que auxiliará no ensino de materiais aeronáuticos baseados em realidade virtual para a aplicação no ensino de tecnologias dos materiais dos cursos presenciais de ensino superior, usando do aprendizado adquirido no curso de Banco de Dados da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+
 •	Realizar uma análise das metodologias mais adequadas para o desenvolvimento de treinamentos baseados em realidade virtual;
+
 •	Analisar os tipos de ferramentas de desenvolvimento com integração a realidade virtual disponíveis no mercado para uso educacional;
+
 •	Avaliar os conhecimentos essenciais no ensino de tecnologias dos materiais aplicados na indústria aeronáutica e auxílio na familiarização aeronáutica;
+
 •	Propor o desenvolvimento de um programa ou metodologia de ensino introdutório de tecnologia dos materiais baseado em realidade virtual para cursos de projetos de estruturas aeronáuticas e manufatura aeronáutica presentes na FATEC São José dos Campos Professor Jessen Vidal;
 
 
