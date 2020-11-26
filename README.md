@@ -23,5 +23,9 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 •	Propor o desenvolvimento de um programa ou metodologia de ensino introdutório de tecnologia dos materiais baseado em realidade virtual para cursos de projetos de estruturas aeronáuticas e manufatura aeronáutica presentes na FATEC São José dos Campos Professor Jessen Vidal;
 
+•	Realizar testes e solução de eventuais problemas baseados em Feedback dos docentes e alunos do programa de simulação desenvolvido;
+
+•	Elaborar um questionário para o levantamento de dados e realizar uma análise de resultados;
+
 
 # Início da Proposta de Solução
