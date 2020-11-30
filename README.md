@@ -9,6 +9,7 @@ Atualmente com o desenvolvimento de tecnologias do ensino, muitos campos educaci
 
 A atualização de sistemas de ensino para comportar novas tendências de mercado e tecnologias emergentes tem sido uma adaptação relevante para todos os campos da educação, trazendo consigo uma maior integração entre o estudante e o campo de estudo e por sua vez um maior nível de aprendizado e de qualidade de ensino para as instituições e  para o mercado de trabalho de toda uma região.
 
+
 Neste âmbito de análise de uso de tecnologias inovadoras de realidade aumentada, será analisado neste trabalho de graduação o desenvolvimento e a aplicação de um sistema baseado em tendências de mercado de RV e RA para os cursos do ensino superior de Projetos de Estruturas Aeronáuticas e Manutenção de Aeronaves da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
 
 Portanto, o objetivo é desenvolver e implantar uma simulação que auxiliará no ensino de materiais aeronáuticos baseados em realidade virtual para a aplicação no ensino de tecnologias dos materiais dos cursos presenciais de ensino superior, usando do aprendizado adquirido no curso de Banco de Dados da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
@@ -28,4 +29,6 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 •	Elaborar um questionário para o levantamento de dados e realizar uma análise de resultados;
 
 
-# Início da Proposta de Solução
+# Início da Proposta de Solução:
+
+Para a proposta de solução deste documento foi considerado a plataforma A-Frame e as linguagens HTML e JavaScript, aplicadas junto do aprendizado aplicado pelo professor Giuliano na disciplina de Laboratório 03 do curso de Banco de Dados da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
