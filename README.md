@@ -25,7 +25,11 @@ A plataforma A-Frame é uma estrutura (Framework) em web de código-aberto (Open
 
 Na utilização da plataforma para desenvolvimento, serão utilizados ativos pré-fabricados pela comunidade da plataforma, de forma a exemplificar o conceito inicial.
 
+[IMAGEM 1]
+
 Na imagem 1, podemos observar a aplicação em sua fase inicial, demonstrando ao usuário que utiliza a aplicação a correta sequência de passos para a montagem da peça (Porta de Aeronave).
+
+[IMAGEM 2]
 
 Na imagem 2, observamos o lado de aprendizado da aplicação, onde o usuário deve inserir seu nome e escolher as peças adequadas na mesma sequência demonstrada anteriormente, para atingir uma pontuação maior. Para cada peça selecionada, um display explica a designação de tal peça, ensinando ao usuário:
 
