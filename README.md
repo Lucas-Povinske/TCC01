@@ -48,6 +48,10 @@ Roussos, M., Johnson, A., Moher, T., Leigh, J., Vasilakis, C., and Barnes, C. (1
 
 Hannes Kaufmann, Collaborative Augmented Reality in Education‘, http://scholar.googleusercontent.com/scholar?q=cache:dycYpkYp6NsJ:scholar.google.com/&hl=el&as_sdt=0,5
 
-Johnson-Glenberg MC (2018) Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls. Front. Robot. AI 5:81. doi: 10.3389/frobt.2018.00081
+Johnson-Glenberg MC (2018) Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls. Front. Robot. AI 5:81.
 
 Mantovani, F., (2001), VR Learning: Potential and Challenges for the Use of 3D Environments in Education and Training‘, In Towards Cyber Psychology: Mind, Cognitions and Society in the Internet Age‘, Amsterdam, IOS Press
+
+H. J. Kim, J. W. hong and Y. W. You., “A Study on the Optimization of Manufacturing Process through Motion Analysis and Virtual Reality.” Journal of the Korea Convergence Society, Vol. 8, No. 7, pp. 23-28, 2017.
+
+Gee, J. P., (2008), ‗Learning and games‘ In Katie Salen (Ed.) ‗The Ecology of Games: Connecting Youth, Games, and Learning‘ (John D. and Catherine T. MacArthur Foundation series on digital media and learning), Cambridge, MA: The MIT Press
