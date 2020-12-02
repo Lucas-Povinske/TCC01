@@ -17,9 +17,9 @@ Portanto, o objetivo é desenvolver e implantar uma simulação que auxiliará n
 
 # Início da Proposta de Solução:
 
-Para a proposta de solução inicial deste documento foram consideradas as plataformas A-Frame e Codepen, e as linguagens HTML e JavaScript, aplicadas junto do aprendizado aplicado pelo professor Giuliano na disciplina de Laboratório 03 do curso de Banco de Dados da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
+Para a proposta de solução inicial deste documento foram consideradas as plataformas A-Frame e Codepen, e as linguagens HTML e JavaScript, aplicadas junto do aprendizado apresentado pelo professor Giuliano Bertoti na disciplina de Laboratório 03 do curso de Banco de Dados da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
 
-Devido a condições financeiras e de acessibilidade, para a proposta inicial o tipo de tecnologia para a execução da aplicação será Google Cardboard. As partes que compõem o dispositivo são um pedaço de papelão cortado em uma forma precisa, de 45 mm de lentes de comprimento focal, ímãs ou fitas capacitivas, um fixador de gancho e loop, uma faixa de borracha, e opcionalmente uma marca de comunicação de campo próximo (NFC).
+Devido a condições financeiras e de acessibilidade, para a proposta inicial o tipo de tecnologia para a execução da aplicação será Google Cardboard, como visto na disciplina de Laboratório 03 descrito acima. As partes que compõem o dispositivo são um pedaço de papelão cortado em uma forma precisa, de 45 mm de lentes de comprimento focal, ímãs ou fitas capacitivas, um fixador de gancho e loop, uma faixa de borracha, e opcionalmente uma marca de comunicação de campo próximo (NFC).
 
 A plataforma A-Frame é uma estrutura (Framework) em web de código-aberto (Open-Source) para programação de experiências em Realidade Virtual. Ela usa a linguagem HTML para que desenvolvedores possam criar cenas em três dimensões (3D) e em WebVR.
 
