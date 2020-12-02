@@ -39,3 +39,15 @@ Unity (Também conhecida como Unity3D ou UnityEngine), é um motor de jogo propr
 
 Para a aplicação futura, será também considerado o HTC Vive como ferramenta do usuário, sendo este dispositivo e seu respectivo ambiente de funcionamento instalado nas localidades da FATEC São José dos Campos Professor Jessen Vidal para seu uso quando a atual pandemia terminar e os cursos retomarem suas atividades presenciais.
 Tanto em sua aplicação futura quando a atual, a finalidade será o aluno poder, através de ferramentas e modelos 3D criados pelo autor ou retirados de fontes, simular a montagem de uma aeronave sem a necessidade do gasto de recursos para a aquisição de uma versão real e atualizada do objeto a ser montado. 
+
+# Referências
+
+Yusof, A. A., Adnan, A. H. M., Mustafa Kamal, N. N., Mohd Kamal, M. A., & Ahmad, M. K. (2019). Education 4.0 Immersive Learning with Spherical Videos (360°) and Virtual Reality (VR) Experiences. In MNNF Network (Ed.), Proceedings of the International Invention, Innovative & Creative (InIIC) Conference, Series 2/2019 (pp. 52-60). Senawang: MNNF Network.
+
+Roussos, M., Johnson, A., Moher, T., Leigh, J., Vasilakis, C., and Barnes, C. (1999) Learning and Building Together in an Immersive Virtual World‘, PRESENCE 8(3), pp. 247 263, MIT Press
+
+Hannes Kaufmann, ‗Collaborative Augmented Reality in Education‘, http://scholar.googleusercontent.com/scholar?q=cache:dycYpkYp6NsJ:scholar.google.com/&hl=el&as_sdt=0,5
+
+Johnson-Glenberg MC (2018) Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls. Front. Robot. AI 5:81. doi: 10.3389/frobt.2018.00081
+
+Mantovani, F., (2001), VR Learning: Potential and Challenges for the Use of 3D Environments in Education and Training‘, In ‗Towards Cyber Psychology: Mind, Cognitions and Society in the Internet Age‘, Amsterdam, IOS Press
