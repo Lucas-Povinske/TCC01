@@ -31,7 +31,7 @@ Na imagem 1, podemos observar a aplicação em sua fase inicial, demonstrando ao
 
 ![IMAGEM 2](https://cdn.discordapp.com/attachments/568911832090279958/783137444811767869/unknown.png)
 
-Na imagem 2, observamos o lado de aprendizado da aplicação, onde o usuário deve inserir seu nome e escolher as peças adequadas na mesma sequência demonstrada anteriormente, para atingir uma pontuação maior. Para cada peça selecionada, um display explica a designação de tal peça, ensinando ao usuário:
+Na imagem 2, observamos o lado de aprendizado da aplicação, onde o usuário deve inserir seu nome e escolher as peças adequadas na mesma sequência demonstrada anteriormente, para atingir uma pontuação maior. Para cada peça selecionada, um display explica a designação de tal peça, ensinando ao usuário.
 
 Para atualização e propostas futuras são consideradas as plataformas Unity e Unreal, com as linguagens C e Python, respectivamente.
 
