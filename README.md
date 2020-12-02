@@ -9,7 +9,7 @@ Atualmente com o desenvolvimento de tecnologias do ensino, muitos campos educaci
 
 A atualização de sistemas de ensino para comportar novas tendências de mercado e tecnologias emergentes tem sido uma adaptação relevante para todos os campos da educação, trazendo consigo uma maior integração entre o estudante e o campo de estudo e por sua vez um maior nível de aprendizado e de qualidade de ensino para as instituições e  para o mercado de trabalho de toda uma região.
 
-Como explicado anteriormente, aprendizado conceitual em ambientes virtuais é um campo recente, mas com potencial imenso [1]. Como sugerido por Roussos et al [2], Realidade Virtual contribui para o interesse e motivação em estudantes com um potencial alto de melhorar a experiência de aprendizado.
+Como explicado anteriormente, aprendizado conceitual em ambientes virtuais é um campo recente, mas com potencial imenso. Como sugerido por Roussos et al, Realidade Virtual contribui para o interesse e motivação em estudantes com um potencial alto de melhorar a experiência de aprendizado.
 
 Neste âmbito de análise de uso de tecnologias inovadoras de realidade aumentada, será analisado neste trabalho de graduação o desenvolvimento e a aplicação de um sistema baseado em tendências de mercado de RV e RA para os cursos do ensino superior de Projetos de Estruturas Aeronáuticas e Manutenção de Aeronaves da Faculdade de Tecnologia (FATEC) de São José dos Campos no polo Professor Jessen Vidal.
 
