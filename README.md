@@ -52,4 +52,4 @@ Mantovani, F., (2001), VR Learning: Potential and Challenges for the Use of 3D E
 
 H. J. Kim, J. W. hong and Y. W. You., “A Study on the Optimization of Manufacturing Process through Motion Analysis and Virtual Reality.” Journal of the Korea Convergence Society, Vol. 8, No. 7, pp. 23-28, 2017.
 
-Gee, J. P., (2008), ‗Learning and games‘ In Katie Salen (Ed.) ‗The Ecology of Games: Connecting Youth, Games, and Learning‘ (John D. and Catherine T. MacArthur Foundation series on digital media and learning), Cambridge, MA: The MIT Press
+Gee, J. P., (2008), Learning and games‘ In Katie Salen (Ed.) The Ecology of Games: Connecting Youth, Games, and Learning‘ (John D. and Catherine T. MacArthur Foundation series on digital media and learning), Cambridge, MA: The MIT Press
