@@ -11,17 +11,17 @@ O objetivo geral deste trabalho é desenvolver e implantar uma simulação que a
 ## 1.2. Objetivos Específicos
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 
-•	Realizar uma análise das metodologias mais adequadas para o desenvolvimento de treinamentos baseados em realidade aumentada;
+- Realizar uma análise das metodologias mais adequadas para o desenvolvimento de treinamentos baseados em realidade aumentada;
 
-•	Analisar os tipos de ferramentas de desenvolvimento com integração a realidade aumentada disponíveis no mercado para uso educacional;
+- Analisar os tipos de ferramentas de desenvolvimento com integração a realidade aumentada disponíveis no mercado para uso educacional;
 
-•	Avaliar os conhecimentos essenciais no ensino de tecnologias dos materiais aplicados na indústria aeronáutica e auxílio na familiarização aeronáutica;
+- Avaliar os conhecimentos essenciais no ensino de tecnologias dos materiais aplicados na indústria aeronáutica e auxílio na familiarização aeronáutica;
 
-•	Propor o desenvolvimento de um programa ou metodologia de ensino introdutório de tecnologia dos materiais baseado em realidade aumentada para cursos de projetos de estruturas aeronáuticas e manufatura aeronáutica presentes na FATEC São José dos Campos Professor Jessen Vidal;
+- Propor o desenvolvimento de um programa ou metodologia de ensino introdutório de tecnologia dos materiais baseado em realidade aumentada para cursos de projetos de estruturas aeronáuticas e manufatura aeronáutica presentes na FATEC São José dos Campos Professor Jessen Vidal;
 
-•	Realizar testes e solução de eventuais problemas baseados em Feedback dos docentes e alunos do programa de simulação desenvolvido;
+- Realizar testes e solução de eventuais problemas baseados em Feedback dos docentes e alunos do programa de simulação desenvolvido;
 
-•	Elaborar um questionário para o levantamento de dados e realizar uma análise de resultados;
+- Elaborar um questionário para o levantamento de dados e realizar uma análise de resultados;
 
 
 ## 1.3. Proposta Metodológica
