@@ -7,5 +7,7 @@ Ele estará separado em Capítulos e em Projeto.
 - [Capítulo 2](https://github.com/Lucas-Povinske/TG01/blob/master/Docs/Cap2.md);
 - [Capítulo 3](https://github.com/Lucas-Povinske/TG01/blob/master/Docs/Cap3.md);
 
+- [Referências](https://github.com/Lucas-Povinske/TG01/blob/master/Docs/Referências%20Bibliográficas.md);
+
 ## Projeto:
 - Em desenvolvimento.
