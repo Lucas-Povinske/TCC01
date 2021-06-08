@@ -31,6 +31,11 @@ sistemas de RA:
 - Interatividade em tempo real;
 - Alinhamento exato dos objetos virtuais no ambiente real.
 
+![Realidades](https://user-images.githubusercontent.com/64936673/121264431-7d1e1700-c88d-11eb-885d-0ea6374714d6.png)
+<p align="center">
+    Figura 1 - Realidades Aumentada, Mista e Virtual
+</p>
+
 ### 3.1.3. Onde RV é aplicado?
 
 As aplicações de Realidade Virtual têm sido bem relatadas em protótipos virtuais, em usinagem, montagem, diagnóstico e aprendizagem de falhas virtual baseados na web e vários outros tipos de operações de manufatura (Damiani et al, 2018).
@@ -43,7 +48,7 @@ Além disso, Kuo e Levis (2002) dizem que os alunos aprendem melhor em um ambien
 
 Uma das primeiras aplicações da tecnologia de realidade aumentada foi introduzida pela primeira vez por T. Caudell em 1992. Era usada para melhorar a eficiência e a qualidade dos trabalhadores humanos na execução de atividades de manufatura. A realidade aumentada rapidamente se tornou popular entre pesquisadores, engenheiros, designers, etc. Ela foi aplicada com sucesso em muitos campos, como robótica, medicina, engenharia automotiva e aeroespacial. (Farkhatdinov, Ryu, 2003).
 
-Segundo Cardoso ¬et al. (2014), algumas das áreas de utilização da Realidade Aumentada estão o treinamento a tarefas complexas, visualização de elementos construtivos a inserção de ambientes reais em engenharias, mapeamento de dados por estimativa em ambientes reais visualização de dados, com o objetivo de aprimoramento, simulações, entretenimento, educação e reuniões e aprendizado remoto.
+Segundo Cardoso et al. (2014), algumas das áreas de utilização da Realidade Aumentada estão o treinamento a tarefas complexas, visualização de elementos construtivos a inserção de ambientes reais em engenharias, mapeamento de dados por estimativa em ambientes reais visualização de dados, com o objetivo de aprimoramento, simulações, entretenimento, educação e reuniões e aprendizado remoto.
 
 ### 3.1.5. Conceitos necessários para desenvolver em RV e RA
 
@@ -55,8 +60,20 @@ O hardware de realidade aumentada pode usar equipamentos de realidade virtual, m
 
 Normalmente, o dispositivo utilizado para a execução da Realidade Aumentada é um celular, tablet ou similar. A potência de processamento principal e das placas de apoio, para tratar as necessidades de multimídia deve ser alta o suficiente para garantir a execução, em tempo real, das seguintes ações: tratamento de vídeo; processamento gráfico 3D; geração de imagens misturadas; incorporação de som; rastreamento de posição do usuário em relação ao seu ambiente, câmera para a projeção de objetos; etc. (Kirner, 2006).
 
+![Hardware](https://user-images.githubusercontent.com/64936673/121264707-f9185f00-c88d-11eb-87cd-9e4629b31d8f.png)
+<p align="center">
+    Figura 2 - Hardware do tipo HMD para RV
+</p>
+
 #### 3.1.5.2. Software
 
 Kirner (2006) também nos diz que o software de realidade aumentada é usado para implementar objetos virtuais e integrá-los ao ambiente real, incluindo alguns comportamentos. Ele pode usar elementos auxiliares para a captura de posições ou os próprios elementos do cenário real.
 
 Muitos dos programas requerem bibliotecas e códigos, em geral tais bibliotecas requerem interface para dispositivos de interação, operação e gerenciamento de monitores/projetores, multiprocessamento, cálculo da perspectiva de acordo com o ponto de visão do usuário, configurações para diferentes sistemas dentre outros.
+
+![Software](https://user-images.githubusercontent.com/64936673/121265400-1f8aca00-c88f-11eb-8c55-ce048fdc56f1.png)
+
+<p align="center">
+    Figura 3 - Software Unity para VR e AR
+</p>
+
